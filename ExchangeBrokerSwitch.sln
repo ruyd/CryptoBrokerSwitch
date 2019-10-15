@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeBrokerSwitch", "src\ExchangeBrokerSwitch.csproj", "{CF49C3ED-6BD5-492F-867B-5B1A087504C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLibs", "CryptoLibs\CryptoLibs.csproj", "{3250B908-AFF8-4B6E-AEEE-1D8FC7943909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF49C3ED-6BD5-492F-867B-5B1A087504C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF49C3ED-6BD5-492F-867B-5B1A087504C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF49C3ED-6BD5-492F-867B-5B1A087504C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF49C3ED-6BD5-492F-867B-5B1A087504C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3250B908-AFF8-4B6E-AEEE-1D8FC7943909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3250B908-AFF8-4B6E-AEEE-1D8FC7943909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3250B908-AFF8-4B6E-AEEE-1D8FC7943909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3250B908-AFF8-4B6E-AEEE-1D8FC7943909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FE60E8-BA6B-4AD0-9977-E4924EFF4FD4}
+	EndGlobalSection
+EndGlobal
