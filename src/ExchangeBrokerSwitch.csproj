@@ -285,10 +285,6 @@
     <Content Include="Content\kendo.common.min.css" />
     <Content Include="Content\kendo.default.min.css" />
     <Content Include="Content\material-lite.css" />
-    <Content Include="Content\mdl-v1.1.2\material.css" />
-    <Content Include="Content\mdl-v1.1.2\material.js" />
-    <Content Include="Content\mdl-v1.1.2\material.min.css" />
-    <Content Include="Content\mdl-v1.1.2\material.min.js" />
     <Content Include="Content\ngDialog-custom-width.css" />
     <Content Include="Content\ngDialog-theme-default.css" />
     <Content Include="Content\ngDialog-theme-default.min.css" />
@@ -307,11 +303,6 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\kendo.common.min.css.map" />
     <Content Include="Content\kendo.default.min.css.map" />
-    <Content Include="Content\mdl-v1.1.2\bower.json" />
-    <Content Include="Content\mdl-v1.1.2\LICENSE" />
-    <Content Include="Content\mdl-v1.1.2\material.min.css.map" />
-    <Content Include="Content\mdl-v1.1.2\material.min.js.map" />
-    <Content Include="Content\mdl-v1.1.2\package.json" />
     <Content Include="Images\spinner-26x26.gif" />
     <Content Include="Scripts\angular-animate.js" />
     <Content Include="Scripts\angular-animate.min.js" />
