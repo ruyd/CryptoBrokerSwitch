@@ -32,10 +32,10 @@ namespace PigSwitch.Controllers
 
         public async Task<ActionResult> Index3()
         {
-            var clientId = "7qXqe_z8SwJMOQaQhoQ6cgoh";
-            var clientKey = "uzqk-ZfD326E82y2ELyhZhzwbYtzQe5RiRRFae9dDz9W9I_z";
-            clientId = "t2jwhMCUpJogACxN6KQl54UY";
-            clientKey = "krxuuo1cHU8DhHSrtuFm0SyecoQ1SJVxBnLIYlUU7baattzW";
+            var clientId = "";
+            var clientKey = "";
+            clientId = "";
+            clientKey = "";
                 
             var client = new BitmexHttpClient(clientId, clientKey, false);
 
@@ -74,8 +74,8 @@ namespace PigSwitch.Controllers
 
         public async Task<ActionResult> Index2()
         {
-            var clientId = "7qXqe_z8SwJMOQaQhoQ6cgoh";
-            var clientKey = "uzqk-ZfD326E82y2ELyhZhzwbYtzQe5RiRRFae9dDz9W9I_z";
+            var clientId = "";
+            var clientKey = "";
 
             var client = new BitmexHttpClient(clientId, clientKey, true);
             var positions = await client.GetWalletSummaryAsync();
